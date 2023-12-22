@@ -23,14 +23,14 @@ public class MyFirstTelegramBot extends TelegramLongPollingBot
     @Override
     public String getBotUsername()
     {
-        // TODO: додай ім'я бота в лапки нижче
+       
         return "Zavo_l_oka_bot";
     }
 
 
     @Override
     public String getBotToken() {
-        // TODO: додай токен бота в лапки нижче
+       
         return "6694993519:AAEMO0aKCwt0tYgBFKl9Wo5XIA9-nkxJm7g";
     }
     @Override
